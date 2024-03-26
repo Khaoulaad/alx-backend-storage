@@ -1,2 +1,2 @@
-// Insert document
-db.school.insert({name: "Holberton school"})
+// Create a database
+use my_db
